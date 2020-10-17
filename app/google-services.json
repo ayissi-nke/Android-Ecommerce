@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "844166427079",
+    "firebase_url": "https://commerce-b904b.firebaseio.com",
+    "project_id": "commerce-b904b",
+    "storage_bucket": "commerce-b904b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844166427079:android:54cde6a5806bbd2adb29e2",
+        "android_client_info": {
+          "package_name": "com.turorial.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844166427079-9as62mj5fd8r8fjdd2c44l6bsp76chvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.turorial.ecommerce",
+            "certificate_hash": "a6699423fb5ab200d0fd8486b4194079ce0402ed"
+          }
+        },
+        {
+          "client_id": "844166427079-ctsdlge84pemhfonrapjejomhh0uh5nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCclM7l8wIlBIfT3tOWT57NTsds9lF6ha8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844166427079-ctsdlge84pemhfonrapjejomhh0uh5nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
